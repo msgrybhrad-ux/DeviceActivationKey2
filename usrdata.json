@@ -18,9 +18,15 @@
         "Allowoffline": false
     },
     {
-        "device_id": "812f3f240393ac74",
+        "device_id": "812f3f240393ac7",
         "key": "key67890fafgs1",
         "expirydate": "20-12-2025",
+        "Allowoffline": false
+    },  
+    {
+        "device_id": "812f3f240393ac74",
+        "key": "kdkdj7jdjdj11",
+        "expirydate": "20-12-2026",
         "Allowoffline": false
     }
 ]
