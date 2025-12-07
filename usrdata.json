@@ -12,15 +12,9 @@
         "Allowoffline": false
     },
     {
-        "device_id": "812f3f240393ac74",
-        "key": "mekey678134097sa90",
-        "expirydate": "8-12-2025",
+        "device_id": "device456",
+        "key": "key67890",
+        "expirydate": "15-06-2025",
         "Allowoffline": false
-    },
-    {
-        "device_id": "812f3f240393ac74",
-        "key": "sra1391$",
-        "expirydate": "17-13-2025",
-        "Allowoffline": true
     }
 ]
