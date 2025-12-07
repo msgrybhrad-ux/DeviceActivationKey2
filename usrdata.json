@@ -16,5 +16,11 @@
         "key": "mekey678134097sa90",
         "expirydate": "8-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "812f3f240393ac74",
+        "key": "sra1391$",
+        "expirydate": "17-13-2025",
+        "Allowoffline": true
     }
 ]
