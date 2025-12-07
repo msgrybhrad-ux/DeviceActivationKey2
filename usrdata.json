@@ -10,17 +10,12 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
+    }
     },
-    {
-        "device_id"{: "812f3f240393ac74",
-        "key": "key67890",
-        "expirydate": "15-12-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id"{: "812f3f240393ac74",
-        "key": "behRas1340",
-        "expirydate": "15-17-2025",
+    
+        "device_id": "812f3f240393ac74",
+        "key": "key6789md",
+        "expirydate": "15-03-2026",
         "Allowoffline": false
     }
 ]
